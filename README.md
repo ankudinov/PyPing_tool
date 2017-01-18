@@ -21,3 +21,5 @@ google.com
 
 3. Select a ping command to use.
 ![](select-ping-mode.jpg)
+
+4. Tool will create a log file with ping stats in the working directory.
