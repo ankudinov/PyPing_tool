@@ -1,6 +1,6 @@
 # PyPing_tool
 
-This is a modified version of multithreaded ping that can be used to monitor monitor ping stats for multiple hosts during some testing.
+PyPing_tool.py is a modified version of multithreaded ping that can be used to monitor monitor ping stats for multiple hosts during some testing.
 
 To start pinging:  
 
