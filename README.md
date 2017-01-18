@@ -27,22 +27,22 @@ google.com
 * Tool will create a log file with ping stats in the working directory.
 ```
 <etc.>
-INFO:root:Entering cycle #70 at 2017-01-18::13:58:32.281629
-INFO:root:     arista.com : Received:              71, Loss:               0, Transmitted:              71
-INFO:root:some-non-existing-hostname : Received:               0, Loss:              71, Transmitted:              71
-INFO:root:        1.2.3.4 : Received:               0, Loss:              71, Transmitted:              71
-INFO:root:     google.com : Received:              71, Loss:               0, Transmitted:              71
-INFO:root:        8.8.8.8 : Received:              71, Loss:               0, Transmitted:              71
-INFO:root:      127.0.0.1 : Received:              71, Loss:               0, Transmitted:              71
-INFO:root:Leaving cycle #70 at 2017-01-18::13:58:32.843859
-INFO:root:Entering cycle #71 at 2017-01-18::13:58:32.843914
-INFO:root:     arista.com : Received:              72, Loss:               0, Transmitted:              72
-INFO:root:some-non-existing-hostname : Received:               0, Loss:              72, Transmitted:              72
-INFO:root:        1.2.3.4 : Received:               0, Loss:              72, Transmitted:              72
-INFO:root:     google.com : Received:              72, Loss:               0, Transmitted:              72
-INFO:root:        8.8.8.8 : Received:              72, Loss:               0, Transmitted:              72
-INFO:root:      127.0.0.1 : Received:              72, Loss:               0, Transmitted:              72
-INFO:root:Leaving cycle #71 at 2017-01-18::13:58:33.410016
+INFO:root:Entering cycle #7 at 2017-01-18::14:16:56.103454
+INFO:root:                    arista.com : Received:               8, Loss:               0, Transmitted:               8
+INFO:root:    some-non-existing-hostname : Received:               0, Loss:               8, Transmitted:               8
+INFO:root:                       1.2.3.4 : Received:               0, Loss:               8, Transmitted:               8
+INFO:root:                    google.com : Received:               8, Loss:               0, Transmitted:               8
+INFO:root:                       8.8.8.8 : Received:               8, Loss:               0, Transmitted:               8
+INFO:root:                     127.0.0.1 : Received:               8, Loss:               0, Transmitted:               8
+INFO:root:Leaving cycle #7 at 2017-01-18::14:16:56.668228
+INFO:root:Entering cycle #8 at 2017-01-18::14:16:56.668296
+INFO:root:                    arista.com : Received:               9, Loss:               0, Transmitted:               9
+INFO:root:    some-non-existing-hostname : Received:               0, Loss:               9, Transmitted:               9
+INFO:root:                       1.2.3.4 : Received:               0, Loss:               9, Transmitted:               9
+INFO:root:                    google.com : Received:               9, Loss:               0, Transmitted:               9
+INFO:root:                       8.8.8.8 : Received:               9, Loss:               0, Transmitted:               9
+INFO:root:                     127.0.0.1 : Received:               9, Loss:               0, Transmitted:               9
+INFO:root:Leaving cycle #8 at 2017-01-18::14:16:57.235941
 <etc.>
 ```
 
