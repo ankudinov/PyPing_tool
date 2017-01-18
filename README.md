@@ -23,3 +23,6 @@ google.com
 ![](select-ping-mode.jpg)
 
 4. Tool will create a log file with ping stats in the working directory.
+
+5. Stats will be displayed in real time.
+![](ping-running.jpg)
